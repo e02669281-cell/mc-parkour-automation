@@ -1,0 +1,60 @@
+{
+  "tiktok_accounts": [
+    {
+      "account_id": 1,
+      "username": "your_tiktok_1",
+      "email": "email1@example.com",
+      "posts_per_day": 3,
+      "posting_times": ["10:00", "14:30", "19:45"],
+      "reuse_cooldown_days": 7,
+      "hook_profile": "aggressive"
+    },
+    {
+      "account_id": 2,
+      "username": "your_tiktok_2",
+      "email": "email2@example.com",
+      "posts_per_day": 3,
+      "posting_times": ["09:15", "15:00", "20:30"],
+      "reuse_cooldown_days": 7,
+      "hook_profile": "casual"
+    },
+    {
+      "account_id": 3,
+      "username": "your_tiktok_3",
+      "email": "email3@example.com",
+      "posts_per_day": 4,
+      "posting_times": ["08:00", "12:00", "16:00", "21:00"],
+      "reuse_cooldown_days": 7,
+      "hook_profile": "hype"
+    }
+  ],
+  "youtube_accounts": [
+    {
+      "channel_id": 1,
+      "channel_name": "MC Parkour - Channel 1",
+      "email": "yt_email1@example.com",
+      "posts_per_day": 3,
+      "posting_times": ["11:00", "15:00", "20:00"],
+      "reuse_cooldown_days": 7,
+      "hook_profile": "educational"
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "MC Parkour - Channel 2",
+      "email": "yt_email2@example.com",
+      "posts_per_day": 3,
+      "posting_times": ["10:00", "14:00", "19:00"],
+      "reuse_cooldown_days": 7,
+      "hook_profile": "viral"
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "MC Parkour - Channel 3",
+      "email": "yt_email3@example.com",
+      "posts_per_day": 3,
+      "posting_times": ["09:00", "13:00", "18:00"],
+      "reuse_cooldown_days": 7,
+      "hook_profile": "chill"
+    }
+  ]
+}
