@@ -1,0 +1,25 @@
+{
+  "base_path": "D:\\mc_parkour_factory",
+  "min_vault_days": 7,
+  "min_videos_per_day_needed": 45,
+  "randomize_posting_times": true,
+  "time_variance_minutes": 20,
+  "voice_profiles": ["male_deep", "male_casual", "female_energetic"],
+  "enable_logging": true,
+  "log_file": "logs/vault.csv",
+  "hashtag_rotation": true,
+  "default_hashtags_tiktok": [
+    "#minecraft",
+    "#parkour",
+    "#minecraftparkour",
+    "#gaming",
+    "#gamer",
+    "#minecrafttiktok"
+  ],
+  "default_hashtags_youtube": [
+    "#Minecraft",
+    "#Parkour",
+    "#Gaming",
+    "#MinecraftShorts"
+  ]
+}
